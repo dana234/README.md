@@ -98,7 +98,7 @@ Dedicated queries and tables enabled the generation of hypotheses and actionable
 - **Shipping Performance:**  
   Late shipments are trending upwards, especially for Office Supplies (binders, art).  
   ![Figure 12: Shipping efficiency](assets/image7.png)
-  ![Figure 13: Total shipped categories by ship status](assets/image8.png)
+  ![Figure 13: Total shipped categories by ship status](assets/iamge8.png)
 
 ---
 
