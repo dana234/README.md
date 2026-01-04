@@ -57,7 +57,7 @@ This report presents the creation of an analytical workbook for global e-commerc
 - Customer segmentation
 - Logistics optimisation
 
-Dedicated queries and tables enabled hypothesis generation and actionable recommendations to improve business efficiency and profitability. The results are presented in a storytelling format for stakeholder clarity.
+Dedicated queries and tables enabled the generation of hypotheses and actionable recommendations to improve business efficiency and profitability. The results are presented in a storytelling format for stakeholder clarity.
 
 ---
 
@@ -92,13 +92,13 @@ Dedicated queries and tables enabled hypothesis generation and actionable recomm
 
 - **Shipping Costs:**  
   Standard Class is used for nearly 60% of orders worldwide. LATAM and US markets have lower shipping costs compared to EU, APAC, and EMEA.
-  ![Figure 10: Shipping mode distribution](link-to-figure10)
-  ![Figure 11: Shipping overview by ship mode](link-to-figure11)
+  ![Figure 10: Shipping mode distribution](assets/image5.png)
+  ![Figure 11: Shipping overview by ship mode](assets/image6.png)
 
 - **Shipping Performance:**  
   Late shipments are trending upwards, especially for Office Supplies (binders, art).  
-  ![Figure 12: Shipping efficiency](link-to-figure12)
-  ![Figure 13: Total shipped categories by ship status](link-to-figure13)
+  ![Figure 12: Shipping efficiency](assets/image7.png)
+  ![Figure 13: Total shipped categories by ship status](assets/image8.png)
 
 ---
 
