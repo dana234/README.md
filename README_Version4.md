@@ -79,7 +79,7 @@ Dedicated queries and tables enabled hypothesis generation and actionable recomm
 - **Geographic Analysis:**  
   The US is the largest market, but APAC (China, India) and Brazil are important growth regions.  
   ![ Bestselling countries vs. Profit per item sold](assets/image3.png)
-  ![Figure 9: Sales and profit progress over $100K](link-to-figure9)
+  ![Figure 9: Sales and profit progress over $100K](assets/image4.png)
 
 - **Sensitivity to Incentives:**  
   Discount strategies should be tailored:  
