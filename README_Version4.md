@@ -1,19 +1,14 @@
-# MIS304 Assessment 2A Group 1 – Global Superstore Data Analysis
-
-Welcome to the sample GitHub README! Use this template as an outline for your data analytics projects.  
-Include one README per repository, with each repository storing one project. Quality over quantity—having 2 stellar business-relevant projects stands out much more than 3+ mediocre ones.  
-Feel free to copy or fork this repository and make it your own. Happy portfolio-ing :)
-
+# MIS304 Assessment 2A Group 1 – Global Superstore Data Analysi
 ---
 
 ## 🏢 Project Background
 
-This project analyzes sales data from an international e-commerce company operating in the appliances and technology sectors, serving both retail and office customers. The dataset, sourced from the Global Superstore, covers order transactions from 2011 to 2014 and offers valuable insights into sales, profitability, customer behavior, and logistics.
+This project analyses sales data from an international e-commerce company operating in the appliances and technology sectors, serving both retail and office customers. The dataset, sourced from the Global Superstore, covers order transactions from 2011 to 2014 and offers valuable insights into sales, profitability, customer behaviour, and logistics.
 
 The analysis aims to support decision-making in three key business areas:
 - Improving profitability
 - Understanding customer segmentation
-- Optimizing logistics
+- Optimising logistics
 
 ---
 
@@ -21,7 +16,7 @@ The analysis aims to support decision-making in three key business areas:
 
 Insights and recommendations are provided on the following key areas:
 
-- **Profitability Growth:** Maximize profit by identifying key segments, products, and seasonal trends.
+- **Profitability Growth:** Maximise profit by identifying key segments, products, and seasonal trends.
 - **Customer Segmentation:** Target the most profitable customer groups and regions, and tailor incentives and marketing strategies.
 - **Logistics Optimisation:** Reduce shipping costs and improve shipping efficiency to boost profitability and customer satisfaction.
 - **Sales Trends Over Time:** Use data-driven insights to inform inventory and promotional strategies.
