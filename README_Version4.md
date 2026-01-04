@@ -72,7 +72,7 @@ Dedicated queries and tables enabled hypothesis generation and actionable recomm
 
 - **Segment Profitability:**  
   The consumer segment is the most profitable, followed by corporate and home office. Efficient marketing should prioritize consumer retention.
-  ![Figure 7: Profit by segment](link-to-figure7)
+  ![Sales Dashboard](assets/image2.png)
 
 ### Category 2: Understanding Customer Segmentation
 
