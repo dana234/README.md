@@ -71,14 +71,14 @@ Dedicated queries and tables enabled hypothesis generation and actionable recomm
 
 
 - **Segment Profitability:**  
-  The consumer segment is the most profitable, followed by corporate and home office. Efficient marketing should prioritize consumer retention.
-  ![Sales Dashboard](assets/image2.png)
+  The consumer segment is the most profitable, followed by corporate and home office. Efficient marketing should prioritise consumer retention.
+  ![profit by segments](assets/image2.png)
 
 ### Category 2: Understanding Customer Segmentation
 
 - **Geographic Analysis:**  
   The US is the largest market, but APAC (China, India) and Brazil are important growth regions.  
-  ![Figure 8: Bestselling countries vs. Profit per item sold](link-to-figure8)
+  ![ Bestselling countries vs. Profit per item sold](assets/image3.png)
   ![Figure 9: Sales and profit progress over $100K](link-to-figure9)
 
 - **Sensitivity to Incentives:**  
@@ -108,7 +108,7 @@ Based on the findings, we recommend:
 
 - **Sales & Marketing:**  
   - Use seasonal trends to adjust marketing and inventory strategies, especially for technology and furniture during Q4.
-  - Prioritize retention and loyalty programs for consumer segments.
+  - Prioritise retention and loyalty programs for consumer segments.
   - Focus growth efforts on APAC and Brazil, and review low-profit regions for potential withdrawal.
   - Tailor discount and pricing policies by region—avoid blanket approaches.
 
@@ -126,7 +126,7 @@ Based on the findings, we recommend:
 ## ⚠️ Assumptions and Caveats
 
 - Missing or inconsistent data, especially in postal codes, was removed or corrected.
-- Typographical errors in city/state/country columns manually fixed.
+- Typographical errors in city/state/country columns were manually fixed.
 - Dates reformatted for consistency.
 - Outliers in shipping cost and sales retained for future analysis.
 - Ethical considerations in segmentation (no sex or ethnicity used).
