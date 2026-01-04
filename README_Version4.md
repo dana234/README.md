@@ -1,4 +1,4 @@
-# MIS304 Assessment 2A Group 1 – Global Superstore Data Analysis
+# Global Superstore Data Analysis
 ---
 
 ## 🏢 Project Background
