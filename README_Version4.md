@@ -67,7 +67,7 @@ Dedicated queries and tables enabled hypothesis generation and actionable recomm
 
 - **Seasonal Sales Trends:**  
   Quarterly analysis revealed technology items consistently had the highest sales, peaking in Q4 each year. The 2014 holiday season saw a 40% increase, with knock-on growth in furniture and office supplies. Post-holiday sales dropped by 36.3% for technology and also declined for other segments.
-  ![Sales Dashboard](assets/tableau_dashboard_salestrends.png)
+  ![Sales Dashboard](assets/image1.png)
 
 
 - **Segment Profitability:**  
