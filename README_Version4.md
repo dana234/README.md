@@ -1,7 +1,7 @@
 # Global Superstore Data Analysis
 ---
 
-## 🏢 Project Background
+## Project Background
 
 This project analyses sales data from an international e-commerce company operating in the appliances and technology sectors, serving both retail and office customers. The dataset, sourced from the Global Superstore, covers order transactions from 2011 to 2014 and offers valuable insights into sales, profitability, customer behaviour, and logistics.
 
@@ -12,7 +12,7 @@ The analysis aims to support decision-making in three key business areas:
 
 ---
 
-## 📈 Key Insights & Recommendations
+## Key Insights & Recommendations
 
 Insights and recommendations are provided on the following key areas:
 
@@ -27,30 +27,17 @@ Insights and recommendations are provided on the following key areas:
 
 ---
 
-## 🗂️ Data Structure & Initial Checks
+## Data Structure & Initial Checks
 
-The main database consists of 51,290 rows and 24 columns, including:
+The Global Super Store dataset consists of 51,290 rows and 24 columns and contains transactional data from an e-commerce business operating across multiple markets. The dataset includes information related to orders, customers, products, shipping, locations, and sales performance.
 
-| Columns       | Data types  | Columns         | Data types  |
-|---------------|-------------|----------------|-------------|
-| Row ID        | Numerical   | Market         | Categorical |
-| Order ID      | Categorical | Region         | Categorical |
-| Order Date    | Categorical | Product ID     | Categorical |
-| Ship Date     | Categorical | Category       | Categorical |
-| Ship Mode     | Categorical | Sub-Category   | Categorical |
-| Customer ID   | Categorical | Product Name   | Categorical |
-| Customer Name | Categorical | Sales          | Numerical   |
-| Segment       | Categorical | Quantity       | Numerical   |
-| City          | Categorical | Discount       | Numerical   |
-| State         | Categorical | Profit         | Numerical   |
-| Country       | Categorical | Shipping Cost  | Numerical   |
-| Postal Code   | Categorical | Order Priority | Categorical |
+![ERD Diagram](assets/erd_diagram.png)
 
-_Entity Relationship Diagram: (Insert ERD or link here)_
+Prior to analysis, data review and quality checks were performed using SQL to assess completeness, consistency, and data types. These checks supported data cleaning and ensured the dataset was suitable for analysis.
 
----
+The SQL queries used for data inspection and quality checks can be found [here](sql/data_quality_checks.sql).
 
-## 📝 Executive Summary
+## Executive Summary
 
 This report presents the creation of an analytical workbook for global e-commerce sales data. The dataset was cleaned and filtered using Tableau Prep and Desktop, correcting errors and removing irrelevant attributes. The analysis focused on three main business goals:
 - Profitability growth
@@ -61,7 +48,7 @@ Dedicated queries and tables enabled the generation of hypotheses and actionable
 
 ---
 
-## 🔎 Insights Deep Dive
+## Insights Deep Dive
 
 ### Category 1: Improving Profitability
 
@@ -102,7 +89,7 @@ Dedicated queries and tables enabled the generation of hypotheses and actionable
 
 ---
 
-## 🏁 Recommendations
+## Recommendations
 
 Based on the findings, we recommend:
 
@@ -123,7 +110,7 @@ Based on the findings, we recommend:
 
 ---
 
-## ⚠️ Assumptions and Caveats
+## Assumptions and Caveats
 
 - Missing or inconsistent data, especially in postal codes, was removed or corrected.
 - Typographical errors in city/state/country columns were manually fixed.
@@ -133,16 +120,9 @@ Based on the findings, we recommend:
 
 ---
 
-## 📊 Visualizations
-
-Please refer to the attached figures for trend analysis, segmentation, logistics, and shipping performance.
-
----
-
 ## 📁 Downloadable Work Samples
 
 - [Full Report PDF](link-to-report)
-- [Tableau Dashboard](link-to-dashboard)
 - [SQL Cleaning Queries](link-to-sql-cleaning)
 - [SQL Business Questions](link-to-sql-business-questions)
 
@@ -151,8 +131,7 @@ Please refer to the attached figures for trend analysis, segmentation, logistics
 ## 📬 Contact
 
 For questions or collaboration, connect on [LinkedIn](https://www.linkedin.com/in/dana-lucia-mendoza-64157b269/)  
-Email: *(add your email here)*
+Email: Dmzuleta65@gmail.com
 
 ---
 
-*Feel free to make a copy of this or fork this repository and make it your own. Update links and add your own SQL/Tableau resources as you progress!*
