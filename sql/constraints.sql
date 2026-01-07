@@ -1,9 +1,16 @@
--- Constraints
--- This file documents business rules enforced at database level
--- Dataset: Global Superstore
+-- ============================================================
+-- Business Rules & Constraints
+-- Project: Global Superstore Data Analysis
+-- Purpose: Enforce key business rules at the database level
+-- ============================================================
+
 
 -- Business rule:
--- Each product should appear only once per order
+-- Each product should appear only once per order.
+-- This constraint prevents duplicate product entries
+-- within the same order.
+
 ALTER TABLE order_items
-Add a unique constraint to ensure each product appears only once per order
+ADD CONSTRAINT unique_order_product
 UNIQUE (OrderID, ProductID);
+
