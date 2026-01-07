@@ -20,8 +20,7 @@ Insights and recommendations are provided on the following key areas:
 - **Customer Segmentation:** Target the most profitable customer groups and regions, and tailor incentives and marketing strategies.
 - **Logistics Optimisation:** Reduce shipping costs and improve shipping efficiency to boost profitability and customer satisfaction.
 - **Sales Trends Over Time:** Use data-driven insights to inform inventory and promotional strategies.
-
-- The SQL queries used to inspect and clean the data for this analysis can be found [here](#).
+  
 - Targeted SQL queries regarding various business questions can be found [here](#).
 
 ---
@@ -35,6 +34,16 @@ The Global Super Store dataset consists of 51,290 rows and 24 columns and contai
 Prior to analysis, data review and quality checks were performed using SQL to assess completeness, consistency, and data types. These checks supported data cleaning and ensured the dataset was suitable for analysis.
 
 The SQL queries used for data inspection and quality checks can be found [here](sql/data_quality_checks.sql).
+
+## Design Decisions & Improvements
+The ERD was designed as a normalised conceptual model to support transactional sales analysis.  
+Certain business rules and design considerations were enforced at the database or analysis level rather than visually represented in the diagram.
+
+- Each product appears only once per order (enforced via a composite uniqueness constraint on OrderID and ProductID).
+- Metrics such as order lead time (ShipDate − OrderDate) are treated as derived values and calculated during analysis.
+- Location data uses PostalCode for simplicity; a surrogate LocationID could be introduced in future iterations to avoid overlaps across countries.
+
+
 
 ## Executive Summary
 
