@@ -31,7 +31,7 @@ Insights and recommendations are provided on the following key areas:
 
 The Global Super Store dataset consists of 51,290 rows and 24 columns and contains transactional data from an e-commerce business operating across multiple markets. The dataset includes information related to orders, customers, products, shipping, locations, and sales performance.
 
-![ERD Diagram](assets/erd_diagram.png)
+![ERD Diagram](assets/ERD.drawio.png)
 
 Prior to analysis, data review and quality checks were performed using SQL to assess completeness, consistency, and data types. These checks supported data cleaning and ensured the dataset was suitable for analysis.
 
