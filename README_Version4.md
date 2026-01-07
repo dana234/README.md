@@ -43,7 +43,7 @@ Certain business rules and design considerations were enforced at the database o
 - Metrics such as order lead time (ShipDate − OrderDate) are treated as derived values and calculated during analysis.
 - Location data uses PostalCode for simplicity; a surrogate LocationID could be introduced in future iterations to avoid overlaps across countries.
 
-The SQL constraint implementing the product-per-order business rule can be found in[Here](sql/constraints.sql).   
+The SQL constraint implementing the product-per-order business rule can be found in [here](sql/constraints.sql).   
 
 ## Executive Summary
 
