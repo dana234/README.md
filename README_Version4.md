@@ -23,7 +23,6 @@ Insights and recommendations are provided on the following key areas:
 
 - The SQL queries used to inspect and clean the data for this analysis can be found [here](#).
 - Targeted SQL queries regarding various business questions can be found [here](#).
-- An interactive Tableau dashboard used to report and explore sales trends can be found [here](#).
 
 ---
 
