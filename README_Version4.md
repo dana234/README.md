@@ -21,7 +21,7 @@ Insights and recommendations are provided on the following key areas:
 - **Logistics Optimisation:** Reduce shipping costs and improve shipping efficiency to boost profitability and customer satisfaction.
 - **Sales Trends Over Time:** Use data-driven insights to inform inventory and promotional strategies.
   
-- Targeted SQL queries regarding various business questions can be found [here](#).
+- Targeted SQL queries regarding various business questions can be found [here](sql/business_questions.sql).
 
 ---
 
