@@ -5,5 +5,5 @@
 -- Business rule:
 -- Each product should appear only once per order
 ALTER TABLE order_items
-ADD CONSTRAINT unique_order_product
+Add a unique constraint to ensure each product appears only once per order
 UNIQUE (OrderID, ProductID);
