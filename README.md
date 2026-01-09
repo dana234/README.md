@@ -128,15 +128,14 @@ Based on the findings, we recommend:
 
 ---
 
-## 📁 Downloadable Work Samples
+## Supporting Materials 
 
-- [Full Report PDF](Global_Superstore_Full_Report)
-- [SQL Cleaning Queries](link-to-sql-cleaning)
-- [SQL Business Questions](link-to-sql-business-questions)
+-[Academic Report (PDF)](report/Global_Superstore_Full_Report.pdf)
+-Selected SQL scripts used for data quality checks, business rules, and analysis are available in the `sql/` folder of this repository.
 
 ---
 
-## 📬 Contact
+## Contact
 
 For questions or collaboration, connect on [LinkedIn](https://www.linkedin.com/in/dana-lucia-mendoza-64157b269/)  
 Email: Dmzuleta65@gmail.com
