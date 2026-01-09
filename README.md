@@ -61,7 +61,7 @@ Dedicated queries and tables enabled the generation of hypotheses and actionable
 ### Category 1: Improving Profitability
 
 - **Seasonal Sales Trends:**  
-  Quarterly analysis revealed technology items consistently had the highest sales, peaking in Q4 each year. The 2014 holiday season saw a 40% increase, with knock-on growth in furniture and office supplies. Post-holiday sales dropped by 36.3% for technology and also declined for other segments.
+Quarterly analysis revealed that technology items consistently had the highest sales, peaking in Q4 each year. The 2014 holiday season saw a 40% increase, with knock-on growth in furniture and office supplies. Post-holiday sales dropped by 36.3% for technology and declined across other segments.
   ![Sales Dashboard](assets/image1.png)
 
 
@@ -86,7 +86,7 @@ Dedicated queries and tables enabled the generation of hypotheses and actionable
 ### Category 3: Optimising Logistics
 
 - **Shipping Costs:**  
-  Standard Class is used for nearly 60% of orders worldwide. LATAM and US markets have lower shipping costs compared to EU, APAC, and EMEA.
+  Standard Class is used for nearly 60% of orders worldwide. LATAM and US markets have lower shipping costs compared to the EU, APAC, and EMEA.
   ![Figure 10: Shipping mode distribution](assets/image5.png)
   ![Figure 11: Shipping overview by ship mode](assets/image6.png)
 
@@ -109,7 +109,7 @@ Based on the findings, we recommend:
 
 - **Logistics:**  
   - Improve shipping efficiency, particularly for Office Supplies.
-  - Establish more regional warehouses in APAC and EU to lower costs and speed up delivery.
+  - Establish more regional warehouses in APAC and the EU to lower costs and speed up delivery.
   - Redesign shipping routes and add local storage facilities.
 
 - **Data & Ethics:**  
