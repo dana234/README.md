@@ -130,7 +130,7 @@ Based on the findings, we recommend:
 
 ## 📁 Downloadable Work Samples
 
-- [Full Report PDF](link-to-report)
+- [Full Report PDF](Global_Superstore_Full_Report)
 - [SQL Cleaning Queries](link-to-sql-cleaning)
 - [SQL Business Questions](link-to-sql-business-questions)
 
