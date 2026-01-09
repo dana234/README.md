@@ -130,8 +130,8 @@ Based on the findings, we recommend:
 
 ## Supporting Materials 
 
--[Academic Report (PDF)](report/Global_Superstore_Full_Report.pdf)
--Selected SQL scripts used for data quality checks, business rules, and analysis are available in the `sql/` folder of this repository.
+- [Academic Report (PDF)](report/Global_Superstore_Full_Report.pdf)
+- Selected SQL scripts used for data quality checks, business rules, and analysis are available in the `sql/` folder of this repository.
 
 ---
 
